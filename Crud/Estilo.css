@@ -1,0 +1,63 @@
+body{
+    background: -webkit-linear-gradient(to right, #fff200, blue, red);
+    background: linear-gradient(to right, hsl(57, 100%, 50%,6.3 ),hsl(240, 100%, 50%,6.3), hsl(0, 100%, 50%,6.3)); 
+    text-align: right;
+}
+ 
+#div1 {
+    width: 60%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;    
+}
+
+#div2 {
+    width: 80%;
+    padding: 60px;
+    border-style: solid;
+    border-width: thin;
+    border: 1px solid #CCCCCC;
+    background: -webkit-linear-gradient(to right, #fff200, blue, red);
+    background: linear-gradient(to right, hsl(57, 100%, 50%,6.3 ),hsl(240, 100%, 50%,6.3), hsl(0, 100%, 50%,6.3));
+    color: white;
+    text-align: center;
+}
+
+#div3 {
+    background-color: rgb (245,245,245);
+    font-size: 21px;
+    padding: 5;    
+    border-width: thin;
+    border: 1px;
+    text-align: center;
+    
+}
+
+.igris {
+    color: rbg (60,72,248);
+}
+
+.btn1 {
+    background-color: rbg (248,238,238);
+    color: rbg (233,83,83);
+    font-size: 15px;
+    font-weight:  bold;
+    width: 40%;
+}
+
+#divconsulta {
+    width: 80%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-color: rbg(255,255,255);
+}
+#divconsulta2 {
+    background-color: rbg(245,245,245);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 0px solid #CCCCCC;
+}
